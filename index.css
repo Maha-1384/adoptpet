@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(202, 175, 124);
+}
+.span,
+.link {
+    color: rgb(148, 10, 10);
+}
+
+.cathdng,
+.doghdng {
+    font-size: x-large;
+    color: rgb(148, 10, 10);
+}
+
+p::first-line {
+    color: rgb(155, 32, 32);
+    font-style: italic;
+}
+
+.first {
+    border: 2px solid black;
+    border-radius: 15px;
+    height: 600px;
+    width: 350px;
+    padding: 8px;
+}
+
+img {
+    border-radius: 8px;
+    width: 100%;
+}
+
+#pet {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#lst {
+    padding-right: 50px;
+    color: rgb(148, 10, 10);
+    text-align: right;
+}
+
+#lst:hover {
+    font-style: calc(2);
+    font-weight: bold;
+    font-size: x-large;
+    color: rgb(3, 55, 226);
+}
