@@ -1,7 +1,10 @@
+
 ---
 
-🐾 AdoptPet – Pet Adoption Landing Page
-Welcome to AdoptPet, a simple and elegant landing page designed to promote pet adoption. This project serves as a basic practice in HTML and CSS, aiming to create a visually appealing and user-friendly interface that encourages visitors to consider adopting a pet.
+# 🐾 AdoptPet – Pet Adoption Landing Page
+
+Welcome to **AdoptPet**, a simple and elegant landing page designed to promote pet adoption. This project serves as a basic practice in HTML and CSS, aiming to create a visually appealing and user-friendly interface that encourages visitors to consider adopting a pet.
+
 ---
 
 ## 📌 Overview
@@ -49,6 +52,7 @@ To view the project localy:
 3. Open `index.html` in your preferred web browser to explore the landng page.
 
 ---
+
 
 ## 🎯 Purpose
 
